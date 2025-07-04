@@ -56,7 +56,7 @@ This project streamlines attendance, analytics, permissions, and logging for edu
 
 - `Attendance.gs` – Attendance automation and email notifications.
 - `Analytics.gs` – Chart generation and analytics.
-- `PermissionsManager.gs` – Advanced multi-level permissions, protections, and access control.
+- `Code.gs` – Configure permissions, manage progress dashboards & leaderboards.
 - `logger.gs` – Logging, reporting, and audit trails.
 
 ---
